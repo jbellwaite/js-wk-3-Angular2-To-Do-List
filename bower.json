@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jessie <jess.bell@me.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
